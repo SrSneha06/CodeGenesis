@@ -1,10 +1,9 @@
-#Problem where we have to find factorial of a number and print the fist non zero integer from right end of the factorial:
-test cases:
-i/o 3 o/p 6
-i/o 10 o/p 8
+//Problem where we have to find factorial of a number and print the first non zero integer from right end of the factorial:
+//test cases:
+//i/o 3 o/p 6
+//i/o 10 o/p 8
 
 #include <stdio.h>
-
 int main() {
     int n,s=1,c;
     scanf("%d",&n);
